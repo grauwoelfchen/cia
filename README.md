@@ -13,7 +13,6 @@ Usage
 
 There are two ways to get your current ip address.
 
-
 ### at command
 
     $ w3m http://www.example.com/ -dump | awk '{print $4}'
@@ -23,5 +22,14 @@ There are two ways to get your current ip address.
 
 access to root of deployed webserver.
 
+
+Demo
+-----
+
+see [http://tamasaburou.heroku.com/](http://tamasaburou.heroku.com/)
+
+
+Message
+-----
 
 Viel Spass :-)
